@@ -1,0 +1,11 @@
+pandas
+Pillow
+timm==0.9.12
+omegaconf
+huggingface-hub
+SimpleITK
+numpy<2.0.0
+opencv-python-headless
+transformers
+scipy
+scikit-learn

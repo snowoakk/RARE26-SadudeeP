@@ -1,0 +1,10 @@
+models/*
+dinov2_repo/*
+local_hf_models/*
+custom_weights/*
+training/base_model/*
+**.tar
+outputs/*
+**/*.pyc
+**/__pycache__/*
+./training/**
