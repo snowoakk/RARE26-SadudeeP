@@ -1,5 +1,5 @@
-"""Champion model architectures: DINOv3-ConvNeXt, GastroNet-ResNet50, DINOv2-ViT-Base.
-
+"""Champion model architectures: get the best model from training DINOv3-ConvNeXt, GastroNet-ResNet50, DINOv2-ViT-Base.
+Select the champion of each pipeline run from all epoch.
 These are trained on RARE26 + pseudo-labeled GastroNet data with curriculum detox.
 Their weights are used in the final ensemble for inference.
 """
