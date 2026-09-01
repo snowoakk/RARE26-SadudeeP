@@ -60,16 +60,14 @@ RARE26-Oak/
 ├── do_test_run.sh        # Local end-to-end test run
 ├── do_save.sh            # Save image for upload
 ├── run_pipeline.bat      # Windows pipeline runner
-├── custom_weights/       # Trained model checkpoints (.pth)
+├── custom_weights/       # Trained model checkpoints (.pth) for inference container
 ├── local_hf_models/      # Offline HuggingFace model files
 │   ├── local_dinov3_convnext/
 │   └── dinov2_repo/
 ├── src/                  # Source package (rare26_oak)
-├── training/             # Training scripts
 ├── data/                 # Dataset utilities
 ├── test/                 # Test inputs & expected outputs
-├── model/                # Tarball for Grand Challenge upload
-└── RARE2026.pdf          # Technical report (Team SadudeeP)
+├── model/                # From RARE26 template
 ```
 
 ---
